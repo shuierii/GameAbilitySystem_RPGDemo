@@ -1,0 +1,23 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Build
+
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# 忽略目录
+.vsconfig
+Content/__ExternalActors__
+Content/__ExternalObjects__
+Content/Collections
+Content/Developers
